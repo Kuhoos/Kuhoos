@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Kuhoo Sharma
 
-<!--
-**Kuhoos/Kuhoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💡 Passionate about Data Analytics & Problem Solving
+* 🛠️ Skilled in Python, SQL, OpenCV
+* 📈 Currently learning Data Science
+* 🔍 Looking for internship opportunities
+
+---
+
+## 🔥 Projects
+
+### 😴 Drowsiness Detection System
+
+* Real-time face & eye detection
+* Audio alert system
+* Event logging
+
+👉 [View Project](https://github.com/Kuhoos/drowsiness-detection)
+
+---
+
+## 🛠️ Tech Stack
+
+* Python 🐍
+* SQL
+* OpenCV
+* Excel
+
+---
+
+## 📫 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/kuhoosharma
+
+---
